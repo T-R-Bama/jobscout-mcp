@@ -1,0 +1,20 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets (ne jamais publier)
+.env
+
+# Données personnelles (ton CV)
+data/*.pdf
+data/*.md
+data/*.txt
+
+# Cache des offres téléchargées
+data/cache/
+
+# Divers
+.DS_Store
+.claude/

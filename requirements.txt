@@ -1,0 +1,4 @@
+mcp==2.3.0
+requests==2.34.2
+pypdf==6.21.4
+python-dotenv==1.2.4
